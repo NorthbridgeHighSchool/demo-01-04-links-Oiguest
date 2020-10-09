@@ -1,0 +1,18 @@
+img {
+  max-height: 300px;
+  border: 3px solid rgb(255, 204, 142);
+  padding: 5px;
+}
+html {
+  background-color: rgb(171, 214, 237);
+  text-align:center;
+}
+h1 {
+  font-variant: small-caps
+} 
+h2 {
+  font-variant: small-caps
+} 
+nav {
+  font-variant: small-caps
+} 
